@@ -1,0 +1,4 @@
+amide| |C:0, D:0, F:0, S35:0, H:2, N15:0, O:0, N:1, P:0, S:0, Br:0, C13:0, O18:0
+methyl ester| |C:1, D:0, F:0, S35:0, H:3, N15:0, O:1, N:0, P:0, S:0, Br:0, C13:0, O18:0
+d3 methyl ester| |C:1, D:3, F:0, S35:0, H:0, N15:0, O:1, N:0, P:0, S:0, Br:0, C13:0, O18:0
+Ethanolamine| |C:2, D:0, F:0, S35:0, H:5, N15:0, O:1, N:1, P:0, S:0, Br:0, C13:0, O18:0

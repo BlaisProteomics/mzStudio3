@@ -1,0 +1,10 @@
+select * from "peptides" where "Variable Modifications" like "%NG%" order by "Experimental mz" asc
+select * from "peptides" where "Variable Modifications" like "%NG%"
+select * from "peptides" where "Peptide Sequence" like "%VCA%"
+select * from "peptides" where "Peptide Sequence" like "%ILGAGCFVDDIVK%" 
+select * from "peptides" where "Peptide Sequence" like "%TTCFSVAALTNNVAFQTVKPGNFNK%" 
+select * from "peptides" where "Peptide Sequence" like "%GAGC%" 
+select * from "peptides" where "Peptide Sequence" like "%C%" 
+select * from "peptides" where "Peptide Sequence" like "%C%"
+select * from "peptides" where "Peptide Sequence" like "%FCS%"
+select * from "peptides" where "Peptide Sequence" like "%GPHEF%"

@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<bioml>
+	<note>
+		XTandem parameter file written by Multiplierz.
+	</note>
+	<note label="residue, potential modification mass" type="input">
+		15.995@M
+	</note>
+	<note label="residue, potential modification motif" type="input"/>
+	<note label="residue, modification mass" type="input">
+		57.021@C
+	</note>
+	<note label="scoring, z ions" type="input">
+		no
+	</note>
+	<note label="scoring, include reverse" type="input">
+		no
+	</note>
+	<note label="scoring, minimum ion count" type="input">
+		1
+	</note>
+	<note label="scoring, cyclic permutation" type="input">
+		no
+	</note>
+	<note label="scoring, b ions" type="input">
+		yes
+	</note>
+	<note label="scoring, maximum missed cleavage sites" type="input">
+		2
+	</note>
+	<note label="scoring, y ions" type="input">
+		yes
+	</note>
+	<note label="scoring, c ions" type="input">
+		no
+	</note>
+	<note label="scoring, x ions" type="input">
+		no
+	</note>
+	<note label="scoring, a ions" type="input">
+		no
+	</note>
+	<note label="list path, taxonomy information" type="input"/>
+	<note label="list path, default parameters" type="input">
+		default_input.xml
+	</note>
+	<note label="spectrum, parent monoisotopic mass error units" type="input">
+		ppm
+	</note>
+	<note label="spectrum, parent monoisotopic mass error minus" type="input">
+		12.5
+	</note>
+	<note label="spectrum, fragment monoisotopic mass error units" type="input">
+		Da
+	</note>
+	<note label="spectrum, minimum fragment m/z" type="input"/>
+	<note label="spectrum, parent monoisotopic mass error plus" type="input">
+		12.5
+	</note>
+	<note label="spectrum, dynamic range" type="input"/>
+	<note label="spectrum, neutral loss window" type="input"/>
+	<note label="spectrum, minimum fragment mz" type="input">
+		150.0
+	</note>
+	<note label="spectrum, neutral loss mass" type="input"/>
+	<note label="spectrum, use contrast angle" type="input">
+		no
+	</note>
+	<note label="spectrum, fragment monoisotopic mass error" type="input">
+		0.025
+	</note>
+	<note label="spectrum, use noise suppression" type="input">
+		no
+	</note>
+	<note label="spectrum, minimum peaks" type="input"/>
+	<note label="spectrum, parent monoisotopic mass isotope error" type="input">
+		no
+	</note>
+	<note label="spectrum, threads" type="input">
+		1
+	</note>
+	<note label="spectrum, maximum parent charge" type="input">
+		4
+	</note>
+	<note label="spectrum, sequence batch size" type="input">
+		1000
+	</note>
+	<note label="spectrum, use neutral loss window" type="input">
+		no
+	</note>
+	<note label="spectrum, fragment mass type" type="input">
+		Monoisotopic
+	</note>
+	<note label="spectrum, minimum parent m+h" type="input"/>
+	<note label="spectrum, total peaks" type="input"/>
+	<note label="refine" type="input">
+		no
+	</note>
+	<note label="refine, potential modification motif" type="input"/>
+	<note label="refine, modification mass" type="input"/>
+	<note label="refine, potential N-terminus modifications" type="input">
+		+42.010565@[
+	</note>
+	<note label="refine, tic percent" type="input">
+		20
+	</note>
+	<note label="refine, sequence path" type="input"/>
+	<note label="refine, point mutations" type="input">
+		no
+	</note>
+	<note label="refine, potential modification mass" type="input"/>
+	<note label="refine, potential C-terminus modifications" type="input"/>
+	<note label="refine, use potential modifications for full refinement" type="input">
+		no
+	</note>
+	<note label="refine, spectrum synthesis" type="input">
+		no
+	</note>
+	<note label="refine, maximum valid expectation value" type="input">
+		0.1
+	</note>
+	<note label="refine, unanticipated cleavage" type="input">
+		no
+	</note>
+	<note label="output, sequences" type="input">
+		yes
+	</note>
+	<note label="output, sort results by" type="input">
+		protein
+	</note>
+	<note label="output, histograms" type="input">
+		yes
+	</note>
+	<note label="output, histogram column width" type="input">
+		30
+	</note>
+	<note label="output, parameters" type="input">
+		yes
+	</note>
+	<note label="output, log path" type="input"/>
+	<note label="output, path hashing" type="input">
+		yes
+	</note>
+	<note label="output, xsl path" type="input">
+		tandem-style.xsl
+	</note>
+	<note label="output, spectra" type="input">
+		yes
+	</note>
+	<note label="output, proteins" type="input">
+		yes
+	</note>
+	<note label="output, sequence path" type="input"/>
+	<note label="output, results" type="input">
+		valid
+	</note>
+	<note label="output, performance" type="input">
+		yes
+	</note>
+	<note label="output, path" type="input">
+		output.mzid
+	</note>
+	<note label="output, message" type="input">
+		testing 1 2 3
+	</note>
+	<note label="output, maximum valid expectation value" type="input">
+		
+		0.1
+	
+	</note>
+	<note label="output, one sequence copy" type="input">
+		no
+	</note>
+	<note label="protein, cleavage C-terminal mass change" type="input"/>
+	<note label="protein, C-terminal residue modification mass" type="input"/>
+	<note label="protein, cleavage N-terminal mass change" type="input"/>
+	<note label="protein, homolog management" type="input">
+		no
+	</note>
+	<note label="protein, taxon" type="input"/>
+	<note label="protein, modified residue mass file" type="input"/>
+	<note label="protein, cleavage site" type="input">
+		[KR]|{P}
+	</note>
+	<note label="protein, N-terminal residue modification mass" type="input"/>
+	<note label="protein, cleavage semi" type="input">
+		no
+	</note>
+</bioml>
